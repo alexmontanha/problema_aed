@@ -17,9 +17,10 @@ O problema do Campo-Minado é considerado um problema NP-completo. Aqui está o 
 Portanto, o problema do Campo-Minado é um problema NP-completo porque satisfaz todas as condições necessárias: está na classe NP, acredita-se que todos os problemas NP possam ser reduzidos a ele, e encontrar uma solução é um processo complexo¹².
 
 Origem: conversa com o Bing, 16/05/2024
-(1) Problemas NP-completos - IME-USP. <https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/NPcompleto.html>.
-(2) O que é um problema NP completo? - Stack Overflow em Português. <https://pt.stackoverflow.com/questions/34104/o-que-%C3%A9-um-problema-np-completo.>
-(3) NP-completo – Wikipédia, a enciclopédia livre. <https://pt.wikipedia.org/wiki/NP-completo.>
+
+- (1) Problemas NP-completos - IME-USP. <https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/NPcompleto.html>.
+- (2) O que é um problema NP completo? - Stack Overflow em Português. <https://pt.stackoverflow.com/questions/34104/o-que-%C3%A9-um-problema-np-completo.>
+- (3) NP-completo – Wikipédia, a enciclopédia livre. <https://pt.wikipedia.org/wiki/NP-completo.>
 
 ## Desafio
 
